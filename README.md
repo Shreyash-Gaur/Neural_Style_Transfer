@@ -116,11 +116,11 @@ To use the neural style transfer implementation, follow these steps:
 # Results
 Here are some examples of generated images using different content and style combinations:
 - The beautiful ruins of the ancient city of Persepolis (Iran) with the style of Van Gogh (The Starry Night)
-    (/images/perspolis_vangogh.png)
+   ![Image](/images/perspolis_vangogh.png)
 
 - The tomb of Cyrus the great in Pasargadae with the style of a Ceramic Kashi from Ispahan.
-    (/images/pasargad_kashi.png)
+    ![Image](/images/pasargad_kashi.png)
 
 - A scientific study of a turbulent fluid with the style of a abstract blue fluid painting.
-    (/images/circle_abstract.png)
+    ![Image](/images/circle_abstract.png)
 ---
